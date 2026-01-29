@@ -14,8 +14,6 @@
       "newReleases": [],
       "newDeployments": [
         {
-          "env": "GitHub Pages",
-          "url": "https://utkarsh-naman.github.io/unc",
           "deployedAt": "https://chopsticks.pages.dev/"
         }
       ]
