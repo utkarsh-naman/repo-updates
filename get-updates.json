@@ -42,7 +42,7 @@
       "projectName": "3T",
       "repoName": "3t",
       "repoLink": "https://github.com/utkarsh-naman/3t",
-      "description": "Tic-Tac-Toe Game Engine.",
+      "description": "Tic-Tac-Toe Game WASM Engine built on go.",
       "createdAt": "2026-01-15T11:32:00Z",
       "lastUpdated": "2026-01-24T18:10:00Z",
       "stars": 0,
