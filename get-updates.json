@@ -1,0 +1,54 @@
+{
+  "version": "2026.01.29.001",
+  "generatedAt": "2026-01-29T12:00:00Z",
+  "projects": [
+    {
+      "projectName": "Unc",
+      "repoName": "unc",
+      "repoLink": "https://github.com/utkarsh-naman/unc",
+      "description": "Chopsticks Game Engine (wasm game engine for the Chopsticks game).",
+      "createdAt": "2025-12-22T20:35:00Z",
+      "lastUpdated": "2026-01-12T16:13:00Z",
+      "stars": 0,
+      "forks": 0,
+      "newReleases": [],
+      "newDeployments": [
+        {
+          "env": "GitHub Pages",
+          "url": "https://utkarsh-naman.github.io/unc",
+          "deployedAt": "https://chopsticks.pages.dev/"
+        }
+      ]
+    },
+    {
+      "projectName": "UtNamPython",
+      "repoName": "utnampython",
+      "repoLink": "https://github.com/utkarsh-naman/utnampython",
+      "description": "Custom Python variant with algorithms and text-to-code conversion.",
+      "createdAt": "2025-06-05T18:39:00Z",
+      "lastUpdated": "2025-06-21T10:09:00Z",
+      "stars": 0,
+      "forks": 0,
+      "newReleases": [
+        {
+          "tag": "v0.3.0",
+          "title": "Improved Parsers",
+          "releasedAt": "https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119"
+        }
+      ],
+      "newDeployments": []
+    },
+    {
+      "projectName": "3T",
+      "repoName": "3t",
+      "repoLink": "https://github.com/utkarsh-naman/3t",
+      "description": "Tic-Tac-Toe Game Engine.",
+      "createdAt": "2026-01-15T11:32:00Z",
+      "lastUpdated": "2026-01-24T18:10:00Z",
+      "stars": 0,
+      "forks": 0,
+      "newReleases": [],
+      "newDeployments": []
+    }
+  ]
+}
