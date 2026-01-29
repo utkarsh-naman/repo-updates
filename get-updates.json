@@ -63,6 +63,22 @@
           "deployedAt": "https://github.com/utkarsh-naman/ruby"
         }
       ]
+    },
+    {
+      "projectName": "Portfolio",
+      "repoName": "portfolio",
+      "repoLink": "https://github.com/utkarsh-naman/portfolio",
+      "description": "Desktop themed portfolio site.",
+      "createdAt": "2026-01-25T17:29:00Z",
+      "lastUpdated": "2026-01-30T01:14:00Z",
+      "stars": 0,
+      "forks": 0,
+      "newReleases": [],
+      "newDeployments": [
+        {
+          "deployedAt": "https://utkarsh-naman.github.io/portfolio"
+        }
+      ]
     }
   ]
 }
